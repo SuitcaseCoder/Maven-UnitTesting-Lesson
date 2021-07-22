@@ -5,7 +5,8 @@ import org.junit.Test;
 
 public class CarDetailsTest {
     
-    // naming for unit tests __ what we're
+    // naming for unit tests __ method name_what are the inputs_ what do
+    // you expect to happen
     @Test
     public void getCarDetails_givenValidCar_returnsExpectedString(){
        //arrange
