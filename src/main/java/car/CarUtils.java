@@ -20,4 +20,10 @@ public class CarUtils {
         return car.getYear() + " " + car.getMake() + " " + car.getModel();
         
     };
+    
+    // TODO: Update the CarUtils.getCarDetails method to now include the color of the car in its returned string. Then run your tests again and update the tests as needed
+    
+    // TODO: In CarUtils, write a static void method called addToMileage
+    //  . This method takes in a car object and a double 'mileageToAdd'. The method will set the car's mileage to be equal to the current mileage + the mileageToAdDThen, write a test, following Arrange/Act/Assert which tests whether the new mileage was correctly added. You will probably call car.getMileage in your assertion and compare it to what you expect.
+    
 }
